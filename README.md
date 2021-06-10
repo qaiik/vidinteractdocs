@@ -1,1 +1,3 @@
-For the docs of [pyvidnteract](https://pypi.org/project/pyvidnteract)
+For the docs of [pyvidnteract](https://pypi.org/project/pyvidnteract).
+
+See DOCS.md
