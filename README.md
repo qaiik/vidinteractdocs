@@ -1,1 +1,1 @@
-For the docs of [pyvidinteract](https://pypi.org/project/pyvidinteract)
+For the docs of [pyvidnteract](https://pypi.org/project/pyvidnteract)
