@@ -1,5 +1,5 @@
 Install pvn / pyvidnteract:\
-`$ pip install pyvidnteract` OR `$ python -m pip install pyvidnteract`
+`$ pip install pyvidnteract`<br/>OR<br/>`$ python -m pip install pyvidnteract`
 \
 \
 \
